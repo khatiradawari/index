@@ -1,0 +1,72 @@
+
+li{
+    background-color: aqua;
+    margin: 20px;
+    padding: 10px;
+    display: inline;
+    float: left;
+    text-align: center;
+    }
+a:link{
+    background-color: whitesmoke;
+    text-decoration: none;
+}
+
+body{
+    
+    background-image: url(picture/download\ \(2\).jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color:aqua;
+    
+}.div1{
+    color:rgb(46, 24, 100);
+    text-align: center;
+    text-transform: uppercase;
+    background-color:rgba(15, 123, 123, 0.334);
+    width: 250px;
+    height: 250px;
+    z-index: 1;
+    position: absolute;
+    left: 40px;
+    bottom: 40px;
+    box-shadow: 10px 20px 10px red;
+
+}h1{
+    color: brown;
+}
+.div2{
+    color:rgb(109, 33, 72);
+    text-align: center;
+    text-transform: uppercase;
+    background-color:rgba(15, 123, 123, 0.334);
+    width: 210px;
+    height: 210px;
+    float: left;
+    z-index: 3;
+    position: absolute;
+    left: 220px;
+    bottom: 100px;
+    box-shadow: 10px 20px 10px yellow;
+    
+}.div3{
+    color:rgb(237, 237, 31);
+    text-align: center;
+    text-transform: uppercase;
+    background-color:rgba(15, 123, 123, 0.334);
+    width: 180px;
+    height: 180px;
+    
+    z-index: 1;
+    position:absolute;
+    left: 170px;
+    bottom: 60px;
+    box-shadow: 10px 20px 10px blue;
+}.div4{
+    color:rgba(18, 6, 48, 0.708);
+    text-align: center;
+    text-transform: uppercase;
